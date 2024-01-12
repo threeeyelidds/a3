@@ -1,0 +1,3 @@
+/home/kedi/Desktop/a3/cuda/build/CMakeFiles/softmax_kernels.dir
+/home/kedi/Desktop/a3/cuda/build/CMakeFiles/edit_cache.dir
+/home/kedi/Desktop/a3/cuda/build/CMakeFiles/rebuild_cache.dir

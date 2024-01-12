@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o softmax_module.cpython-310-x86_64-linux-gnu.so CMakeFiles/softmax_pybind.dir/pybind_kernel_cuda.cpp.o  -lsoftmax_kernels 
